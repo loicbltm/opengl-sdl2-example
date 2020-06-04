@@ -1,0 +1,4 @@
+/Debug
+/libs/*
+SDL2.dll
+vc140.pdb
